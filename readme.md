@@ -9,6 +9,6 @@ pip install requests
 python altoids.py
 ```
 ## Contribuir
-Si alguien le quiere añadir algo nuevo , o arreglar el bug en el que se cierra luego de mandar un mensaje , completamente bienvenidos! (Ayuda porfavor soy terrible programando)
+Si alguien le quiere añadir algo nuevo y cool , esta completamente bienvenido! 
 ## Servidor de discord
-Dudo que esto tenga gente en algun momento porque dudo hacer este repo publico , pero para ver el changelog sirve uwu https://discord.gg/EZygMu8
+Aqui puedes ver el changelog y hacer preguntas sobre el programa uwu https://discord.gg/EZygMu8
