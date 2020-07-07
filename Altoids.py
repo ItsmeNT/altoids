@@ -16,6 +16,7 @@ print()
 
 while True:
     texto = input(">")
+    print("Mensaje enviado")
 
     url = link
     codigojson = {
