@@ -6,6 +6,7 @@ Altoids es un programa que te permite enviar mensajes a un webhook de discord co
 ## Instalacion
 ```bash
 pip install requests
+python altoids.py
 ```
 ## Contribuir
 Si alguien le quiere añadir algo nuevo , o arreglar el bug en el que se cierra luego de mandar un mensaje , completamente bienvenidos! (Ayuda porfavor soy terrible programando)
