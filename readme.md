@@ -1,5 +1,5 @@
 # Altoids
-[![gif](ReadmeGif.gif)]
+![gif](ReadmeGif.gif)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)<br/>
