@@ -2,7 +2,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)<br/>
-Altoids es un programa que te permite enviar mensajes a un webhook de discord como si estubieses chateando 
+Altoids es un programa que te permite enviar mensajes a un webhook de discord como si estubieses chateando
 ## Instalacion
 ```bash
 pip install requests
